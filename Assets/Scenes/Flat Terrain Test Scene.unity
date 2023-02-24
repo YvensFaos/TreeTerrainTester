@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stepsToRecord: 100
-  extraNote: cube prefab with gpu instancing material
+  extraNote: cube prefab speed tree material
   dataList:
     data: []
   destroyOnEnd: 0
