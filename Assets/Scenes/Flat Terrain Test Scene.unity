@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stepsToRecord: 100
-  extraNote: cube prefab speed tree material
+  extraNote: regular cube again
   dataList:
     data: []
   destroyOnEnd: 0
