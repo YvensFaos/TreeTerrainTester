@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stepsToRecord: 100
-  extraNote: speed tree tree
+  extraNote: lod tree gpu
   dataList:
     data: []
   destroyOnEnd: 0
