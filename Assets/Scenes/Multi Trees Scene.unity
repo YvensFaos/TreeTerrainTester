@@ -304,7 +304,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 561424691622485012, guid: e569eb3389cae409db48d520e11edcf4, type: 3}
       propertyPath: extraNote
-      value: multiple trees basic material not static
+      value: multiple trees basic material gpu instancing
+      objectReference: {fileID: 0}
+    - target: {fileID: 561424691622485012, guid: e569eb3389cae409db48d520e11edcf4, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 561424691622485013, guid: e569eb3389cae409db48d520e11edcf4, type: 3}
       propertyPath: m_RootOrder
